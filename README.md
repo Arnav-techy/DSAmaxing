@@ -22,6 +22,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
@@ -60,4 +61,8 @@
 | [0584-find-customer-referee](https://github.com/Arnav-techy/DSAmaxing/tree/master/0584-find-customer-referee) |
 | [0610-triangle-judgement](https://github.com/Arnav-techy/DSAmaxing/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0620-not-boring-movies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
