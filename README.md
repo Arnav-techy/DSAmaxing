@@ -48,6 +48,7 @@
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Arnav-techy/DSAmaxing/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Arnav-techy/DSAmaxing/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Arnav-techy/DSAmaxing/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/0511-game-play-analysis-i) |
