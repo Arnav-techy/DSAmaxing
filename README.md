@@ -10,6 +10,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
@@ -40,6 +42,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
