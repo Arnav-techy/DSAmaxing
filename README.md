@@ -33,6 +33,7 @@
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
@@ -92,9 +94,18 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
