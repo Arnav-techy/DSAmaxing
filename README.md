@@ -7,12 +7,14 @@
 | [0007-reverse-integer](https://github.com/Arnav-techy/DSAmaxing/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 ## String
@@ -27,6 +29,7 @@
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
