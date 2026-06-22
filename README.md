@@ -37,6 +37,7 @@
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnav-techy/DSAmaxing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
 ## Database
 |  |
 | ------- |
