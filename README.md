@@ -48,5 +48,6 @@
 ## Database
 |  |
 | ------- |
+| [0610-triangle-judgement](https://github.com/Arnav-techy/DSAmaxing/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
