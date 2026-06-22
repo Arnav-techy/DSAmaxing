@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -25,6 +26,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
