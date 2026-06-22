@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
@@ -86,5 +87,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
