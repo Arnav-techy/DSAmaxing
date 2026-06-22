@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arnav-techy/DSAmaxing/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
