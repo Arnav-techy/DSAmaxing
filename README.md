@@ -45,4 +45,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
