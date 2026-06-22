@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -63,6 +64,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
@@ -95,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 ## Recursion
 |  |
