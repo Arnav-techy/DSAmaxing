@@ -14,6 +14,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arnav-techy/DSAmaxing/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Arnav-techy/DSAmaxing/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0039-combination-sum) |
@@ -64,6 +66,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Arnav-techy/DSAmaxing/tree/master/0011-container-with-most-water) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
