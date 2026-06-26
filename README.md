@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -64,6 +66,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
