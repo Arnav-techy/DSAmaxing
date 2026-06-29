@@ -29,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -54,6 +55,7 @@
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnav-techy/DSAmaxing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
