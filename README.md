@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arnav-techy/DSAmaxing/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
@@ -42,6 +43,7 @@
 | [0027-remove-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arnav-techy/DSAmaxing/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
@@ -148,4 +150,8 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arnav-techy/DSAmaxing/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
