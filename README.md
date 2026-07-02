@@ -44,6 +44,7 @@
 | [0039-combination-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arnav-techy/DSAmaxing/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
@@ -72,6 +73,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -154,4 +156,5 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
