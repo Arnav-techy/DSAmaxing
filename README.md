@@ -59,6 +59,7 @@
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
+| [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
 | [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnav-techy/DSAmaxing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
 ## Stack
 |  |
 | ------- |
@@ -162,4 +164,5 @@
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arnav-techy/DSAmaxing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
