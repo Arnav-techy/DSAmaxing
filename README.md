@@ -41,6 +41,7 @@
 | [0015-3sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Arnav-techy/DSAmaxing/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
@@ -99,6 +100,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
