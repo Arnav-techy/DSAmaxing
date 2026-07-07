@@ -48,6 +48,7 @@
 | [0054-spiral-matrix](https://github.com/Arnav-techy/DSAmaxing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Arnav-techy/DSAmaxing/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0137-single-number-ii) |
@@ -74,6 +75,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0084-largest-rectangle-in-histogram) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -167,4 +169,8 @@
 | [0054-spiral-matrix](https://github.com/Arnav-techy/DSAmaxing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
