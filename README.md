@@ -59,6 +59,7 @@
 | [0260-single-number-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
@@ -98,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/Arnav-techy/DSAmaxing/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
@@ -136,6 +138,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Recursion
 |  |
 | ------- |
