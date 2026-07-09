@@ -30,6 +30,7 @@
 | [0058-length-of-last-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
@@ -138,6 +139,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Recursion
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +179,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
