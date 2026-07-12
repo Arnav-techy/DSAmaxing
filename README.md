@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0283-move-zeroes](https://github.com/Arnav-techy/DSAmaxing/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arnav-techy/DSAmaxing/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnav-techy/DSAmaxing/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -103,6 +106,7 @@
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
