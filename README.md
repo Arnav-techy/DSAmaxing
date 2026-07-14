@@ -32,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -148,6 +149,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
