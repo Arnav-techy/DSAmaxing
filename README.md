@@ -13,6 +13,7 @@
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arnav-techy/DSAmaxing/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Arnav-techy/DSAmaxing/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
