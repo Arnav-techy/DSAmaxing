@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
