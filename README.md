@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arnav-techy/DSAmaxing/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Arnav-techy/DSAmaxing/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Arnav-techy/DSAmaxing/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnav-techy/DSAmaxing/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Arnav-techy/DSAmaxing/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Arnav-techy/DSAmaxing/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arnav-techy/DSAmaxing/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0219-contains-duplicate-ii) |
