@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Arnav-techy/DSAmaxing/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Arnav-techy/DSAmaxing/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
