@@ -230,4 +230,20 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arnav-techy/DSAmaxing/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arnav-techy/DSAmaxing/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arnav-techy/DSAmaxing/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Arnav-techy/DSAmaxing/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
