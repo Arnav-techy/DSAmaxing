@@ -36,6 +36,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Arnav-techy/DSAmaxing/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Arnav-techy/DSAmaxing/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
 | ------- |
