@@ -89,6 +89,7 @@
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnav-techy/DSAmaxing/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -130,6 +131,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arnav-techy/DSAmaxing/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Number Theory
 |  |
 | ------- |
