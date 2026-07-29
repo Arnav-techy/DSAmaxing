@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Arnav-techy/DSAmaxing/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Arnav-techy/DSAmaxing/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Arnav-techy/DSAmaxing/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Arnav-techy/DSAmaxing/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Arnav-techy/DSAmaxing/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Arnav-techy/DSAmaxing/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Arnav-techy/DSAmaxing/tree/master/0242-valid-anagram) |
@@ -111,6 +113,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arnav-techy/DSAmaxing/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Arnav-techy/DSAmaxing/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -159,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arnav-techy/DSAmaxing/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Arnav-techy/DSAmaxing/tree/master/0231-power-of-two) |
