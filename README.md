@@ -20,6 +20,7 @@
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arnav-techy/DSAmaxing/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arnav-techy/DSAmaxing/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Arnav-techy/DSAmaxing/tree/master/3884-first-matching-character-from-both-ends) |
 ## Array
 |  |
@@ -122,6 +124,7 @@
 | [0011-container-with-most-water](https://github.com/Arnav-techy/DSAmaxing/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Arnav-techy/DSAmaxing/tree/master/0455-assign-cookies) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Arnav-techy/DSAmaxing/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
