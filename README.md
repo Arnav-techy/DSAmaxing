@@ -18,6 +18,7 @@
 | [0342-power-of-four](https://github.com/Arnav-techy/DSAmaxing/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/Arnav-techy/DSAmaxing/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -53,6 +54,7 @@
 | [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/Arnav-techy/DSAmaxing/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
@@ -117,6 +119,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Arnav-techy/DSAmaxing/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
+| [0537-complex-number-multiplication](https://github.com/Arnav-techy/DSAmaxing/tree/master/0537-complex-number-multiplication) |
 | [2390-removing-stars-from-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
