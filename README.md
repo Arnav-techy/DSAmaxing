@@ -20,6 +20,7 @@
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/Arnav-techy/DSAmaxing/tree/master/0537-complex-number-multiplication) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Arnav-techy/DSAmaxing/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Arnav-techy/DSAmaxing/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Arnav-techy/DSAmaxing/tree/master/3536-maximum-product-of-two-digits) |
@@ -94,6 +95,7 @@
 | [0506-relative-ranks](https://github.com/Arnav-techy/DSAmaxing/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Arnav-techy/DSAmaxing/tree/master/0704-binary-search) |
 | [0812-largest-triangle-area](https://github.com/Arnav-techy/DSAmaxing/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Arnav-techy/DSAmaxing/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arnav-techy/DSAmaxing/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/1539-kth-missing-positive-number) |
@@ -106,6 +108,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnav-techy/DSAmaxing/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Arnav-techy/DSAmaxing/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Arnav-techy/DSAmaxing/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Arnav-techy/DSAmaxing/tree/master/1301-number-of-paths-with-max-score) |
 ## Stack
 |  |
@@ -268,4 +271,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Arnav-techy/DSAmaxing/tree/master/0374-guess-number-higher-or-lower) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Arnav-techy/DSAmaxing/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
