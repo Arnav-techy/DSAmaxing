@@ -55,6 +55,7 @@
 | [0383-ransom-note](https://github.com/Arnav-techy/DSAmaxing/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arnav-techy/DSAmaxing/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Arnav-techy/DSAmaxing/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/Arnav-techy/DSAmaxing/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/Arnav-techy/DSAmaxing/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arnav-techy/DSAmaxing/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Arnav-techy/DSAmaxing/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
